@@ -1,0 +1,9 @@
+C:\Users\LBissoli\Documents\Bissoli\Exemplos\TesteSoftPlan\TesteSoftPlan\TesteSoftPlan.Domain\bin\Debug\netcoreapp3.1\TesteSoftPlan.Domain.deps.json
+C:\Users\LBissoli\Documents\Bissoli\Exemplos\TesteSoftPlan\TesteSoftPlan\TesteSoftPlan.Domain\bin\Debug\netcoreapp3.1\TesteSoftPlan.Domain.dll
+C:\Users\LBissoli\Documents\Bissoli\Exemplos\TesteSoftPlan\TesteSoftPlan\TesteSoftPlan.Domain\bin\Debug\netcoreapp3.1\TesteSoftPlan.Domain.pdb
+C:\Users\LBissoli\Documents\Bissoli\Exemplos\TesteSoftPlan\TesteSoftPlan\TesteSoftPlan.Domain\obj\Debug\netcoreapp3.1\TesteSoftPlan.Domain.csprojAssemblyReference.cache
+C:\Users\LBissoli\Documents\Bissoli\Exemplos\TesteSoftPlan\TesteSoftPlan\TesteSoftPlan.Domain\obj\Debug\netcoreapp3.1\TesteSoftPlan.Domain.AssemblyInfoInputs.cache
+C:\Users\LBissoli\Documents\Bissoli\Exemplos\TesteSoftPlan\TesteSoftPlan\TesteSoftPlan.Domain\obj\Debug\netcoreapp3.1\TesteSoftPlan.Domain.AssemblyInfo.cs
+C:\Users\LBissoli\Documents\Bissoli\Exemplos\TesteSoftPlan\TesteSoftPlan\TesteSoftPlan.Domain\obj\Debug\netcoreapp3.1\TesteSoftPlan.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LBissoli\Documents\Bissoli\Exemplos\TesteSoftPlan\TesteSoftPlan\TesteSoftPlan.Domain\obj\Debug\netcoreapp3.1\TesteSoftPlan.Domain.dll
+C:\Users\LBissoli\Documents\Bissoli\Exemplos\TesteSoftPlan\TesteSoftPlan\TesteSoftPlan.Domain\obj\Debug\netcoreapp3.1\TesteSoftPlan.Domain.pdb

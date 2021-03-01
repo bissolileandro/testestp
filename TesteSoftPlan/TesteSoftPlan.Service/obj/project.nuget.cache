@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cu1zYMFaYSZqiUjUsee1C5+yRx7zYQBAKGSusL9jeltDcU/J1uzrLujxdwsBnuYaEqdQFm68f2DYfa6b855SyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LBissoli\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

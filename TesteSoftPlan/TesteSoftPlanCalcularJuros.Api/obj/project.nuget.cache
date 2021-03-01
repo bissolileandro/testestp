@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmueElosebINeMF3QAPFMIQoqnEbTazGVM2itn3fxBaSP4OkdAepqj9k58da/ImAgETuglpiviBFj1l9phPVVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TesteSoftPlan\\TesteSoftPlan\\TesteSoftPlanCalcularJuros.Api\\TesteSoftPlanCalcularJuros.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LBissoli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
