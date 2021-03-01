@@ -8,7 +8,7 @@ using TesteSoftPlan.Service.Interface;
 
 namespace TesteSoftPlan.Api.Controllers
 {
-    [Route("api/calculajuros")]
+    [Route("api/")]
     [ApiController]
     public class CalculaJurosController : ControllerBase
     {
@@ -19,12 +19,28 @@ namespace TesteSoftPlan.Api.Controllers
         }
 
         [HttpGet]
-        [Route("")]
+        [Route("calculajuros")]
         public async Task<IActionResult> CalculaJuros(decimal valorinicial, int meses) 
         {
             try
             {
                 var resultado = await _calculaJurosService.CalcularJuros(valorinicial, meses);
+                return Ok(resultado);
+
+            }
+            catch (Exception e)
+            {
+                return BadRequest($"Erro: {e.Message}");
+            }
+        }
+
+        [HttpGet]
+        [Route("showmethecode")]
+        public IActionResult ShowMeTheCode()
+        {
+            try
+            {
+                var resultado = _calculaJurosService.ShowMeTheCode();
                 return Ok(resultado);
 
             }

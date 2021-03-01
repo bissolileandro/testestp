@@ -25,6 +25,18 @@ namespace TesteSoftPlan.Test
         }
 
         [Fact]
+        public async Task ShowMeTheCodeApi()
+        {
+            using (var clientProvider = new ClientProviderApi2().client)
+            {
+                var response = await clientProvider.GetAsync("/api/showmethecode");
+                response.EnsureSuccessStatusCode();
+                response.StatusCode.Should().Be(HttpStatusCode.OK, "EndPoint Inexixtente! " +
+                                                                   "Por favor Execute a Api de Taxa Separado");
+            }
+        }
+
+        [Fact]
         public async Task TestarCauculoJuros()
         {
             using (var clientProvider = new ClientProviderApi2().client)
