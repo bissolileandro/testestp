@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CJKbGUlj03HspjQ2hSzyEZVojWdwcBDoYq2JrVUpiGQA/NzaPLvlBhsrTFoCvEdutk0tDsM42FhhOeDauKmwTA==",
+  "dgSpecHash": "+Yezxzuy6WBXmetGf71sxaOgKnYwBD2JfUIYQykVFvY/unKaoOXJtbE47fd8goA0DY1c8o8Ruy9jDmpC8sqUhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Test\\TesteSoftPlan.Test.csproj",
+  "projectFilePath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Test\\TesteSoftPlan.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LBissoli\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\LBissoli\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
@@ -12,6 +12,7 @@
     "C:\\Users\\LBissoli\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\LBissoli\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
     "C:\\Users\\LBissoli\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
+    "C:\\Users\\LBissoli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\LBissoli\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\LBissoli\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\LBissoli\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.7\\swashbuckle.aspnetcore.swagger.6.0.7.nupkg.sha512",

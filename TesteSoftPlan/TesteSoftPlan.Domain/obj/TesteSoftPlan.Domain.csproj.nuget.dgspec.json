@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj": {}
+    "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj": {
+    "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj",
         "projectName": "TesteSoftPlan.Domain",
-        "projectPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj",
+        "projectPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj",
         "packagesPath": "C:\\Users\\LBissoli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Domain\\obj\\",
+        "outputPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

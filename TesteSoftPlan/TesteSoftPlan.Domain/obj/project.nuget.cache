@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9c4lTo+XpijwiXPgHoPYbhflz4rfQbS4dZOb6WhBnDDAawYeJTtmNSX+W39gQ6GTB+A/MaSNh2w5htqJeOvI2w==",
+  "dgSpecHash": "hNGr6oUDzVAItLIFPYZqCFhU+5DQo1Wtu6xJG5DdiYpYi9MGDMeNXQTfOhhtFpKSinCSvtker7NyQodYEPU3qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj",
+  "projectFilePath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

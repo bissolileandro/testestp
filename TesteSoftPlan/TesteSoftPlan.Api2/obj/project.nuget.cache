@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oZ03pRLbj06WfRxMRCHw+2Q9V0aMK6Zuhe7lBkF7bSeCS1h5h9kamooBaTw3SiCwpm92s8cjOgw+NBCrbypTrA==",
+  "dgSpecHash": "xyY3h13wxUcEzEMlJ3oZ0q6WpkhZIc56dYiVZ1KnHt7FXOt06qxm9+jUsnu+s+o5XSLBy08DbQnQUQAaTOCsgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Api2\\TesteSoftPlan.Api2.csproj",
+  "projectFilePath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Api2\\TesteSoftPlan.Api2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LBissoli\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
     "C:\\Users\\LBissoli\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LBissoli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\LBissoli\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\LBissoli\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
     "C:\\Users\\LBissoli\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512",

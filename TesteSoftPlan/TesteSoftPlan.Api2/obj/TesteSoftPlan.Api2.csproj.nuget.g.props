@@ -19,8 +19,10 @@
     <Import Project="$(NuGetPackageRoot)nswag.msbuild\13.0.5\build\NSwag.MSBuild.props" Condition="Exists('$(NuGetPackageRoot)nswag.msbuild\13.0.5\build\NSwag.MSBuild.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.extensions.apidescription.client\3.0.0\build\Microsoft.Extensions.ApiDescription.Client.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.apidescription.client\3.0.0\build\Microsoft.Extensions.ApiDescription.Client.props')" />
     <Import Project="$(NuGetPackageRoot)nswag.apidescription.client\13.0.5\build\NSwag.ApiDescription.Client.props" Condition="Exists('$(NuGetPackageRoot)nswag.apidescription.client\13.0.5\build\NSwag.ApiDescription.Client.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.visualstudio.azure.containers.tools.targets\1.10.9\build\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props" Condition="Exists('$(NuGetPackageRoot)microsoft.visualstudio.azure.containers.tools.targets\1.10.9\build\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgNSwag_MSBuild Condition=" '$(PkgNSwag_MSBuild)' == '' ">C:\Users\LBissoli\.nuget\packages\nswag.msbuild\13.0.5</PkgNSwag_MSBuild>
+    <PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets Condition=" '$(PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets)' == '' ">C:\Users\LBissoli\.nuget\packages\microsoft.visualstudio.azure.containers.tools.targets\1.10.9</PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets>
   </PropertyGroup>
 </Project>

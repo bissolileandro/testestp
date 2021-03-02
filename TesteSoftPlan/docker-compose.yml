@@ -1,0 +1,26 @@
+version: '3.7'
+
+services:
+  taxajuros.api:
+    build:
+      context: ./
+      dockerfile: TesteSoftPlan.Api/Dockerfile
+    ports:
+      - "5555:80"
+    networks:
+      - soft-network
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+  calculojuros.api:
+    build:
+      context: ./
+      dockerfile: TesteSoftPlan.Api2/Dockerfile
+    ports:
+      - "5556:80"
+    networks:
+      - soft-network
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development 
+networks:
+  soft-network:
+    driver: nat

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TesteSoftPlan.Test": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

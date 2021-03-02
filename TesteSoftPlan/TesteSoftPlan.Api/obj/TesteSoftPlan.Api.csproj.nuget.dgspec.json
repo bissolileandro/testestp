@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Api\\TesteSoftPlan.Api.csproj": {}
+    "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Api\\TesteSoftPlan.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Api\\TesteSoftPlan.Api.csproj": {
+    "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Api\\TesteSoftPlan.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Api\\TesteSoftPlan.Api.csproj",
+        "projectUniqueName": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Api\\TesteSoftPlan.Api.csproj",
         "projectName": "TesteSoftPlan.Api",
-        "projectPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Api\\TesteSoftPlan.Api.csproj",
+        "projectPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Api\\TesteSoftPlan.Api.csproj",
         "packagesPath": "C:\\Users\\LBissoli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Api\\obj\\",
+        "outputPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj": {
-                "projectPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj"
+              "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj": {
+                "projectPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj"
               }
             }
           }
@@ -48,6 +48,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",
               "version": "[6.0.7, )"
@@ -83,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj": {
+    "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj",
         "projectName": "TesteSoftPlan.Domain",
-        "projectPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj",
+        "projectPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj",
         "packagesPath": "C:\\Users\\LBissoli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Domain\\obj\\",
+        "outputPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -141,14 +145,14 @@
         }
       }
     },
-    "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj": {
+    "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj",
+        "projectUniqueName": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj",
         "projectName": "TesteSoftPlan.Service",
-        "projectPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj",
+        "projectPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj",
         "packagesPath": "C:\\Users\\LBissoli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Service\\obj\\",
+        "outputPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -169,8 +173,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj": {
-                "projectPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj"
+              "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj": {
+                "projectPath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Domain\\TesteSoftPlan.Domain.csproj"
               }
             }
           }

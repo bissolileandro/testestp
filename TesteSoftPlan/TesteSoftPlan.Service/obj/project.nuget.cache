@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cu1zYMFaYSZqiUjUsee1C5+yRx7zYQBAKGSusL9jeltDcU/J1uzrLujxdwsBnuYaEqdQFm68f2DYfa6b855SyQ==",
+  "dgSpecHash": "FwNJjgYf0CuX+4MMvMkRGRT0tJvq7UWDmv7yN2epTc2/TrMez6KHiD14TDn4QtQQ4MK2EhJgKijeiwmJOE5qpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlan\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj",
+  "projectFilePath": "C:\\Users\\LBissoli\\Documents\\Bissoli\\Exemplos\\TestSoftPlanDocker\\TesteSoftPlan\\TesteSoftPlan.Service\\TesteSoftPlan.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LBissoli\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

@@ -35,7 +35,7 @@ namespace TesteSoftPlan.Service.Services
 
             using (HttpClient client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:57384/");
+                client.BaseAddress = new Uri("http://localhost:5555/");
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                 HttpResponseMessage response = await client.GetAsync("api/taxaJuros");
